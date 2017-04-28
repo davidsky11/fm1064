@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+/*全局样式*/
+* { margin: 0; padding: 0; }
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div { margin: 0; padding: 0; border: 0; }
+body {color: #000; font-size: 12px; font-family:"微软雅黑", "Arial Narrow";width: 100%;height: 100%}
+a,input,button,textarea{ outline:none;}
+ul, ol { list-style-type: none; }
+img { border: none; outline-style: none; }
+select, input, img, select { vertical-align: middle;  }
+a { text-decoration: none; color: #fff; outline:none; blr:expression(this.onFocus=this.blur());}
+a:link { color: #000; }
+a:visited { color: #000; }
+a:hover, a:active, a:focus { color: #2caed6; text-decoration: none;outline:none; }
+a:focus { outline: none; }
+
+
+.dlxx{background:url(../images/dl-bg.jpg); height:798px;}
+.signin { width: 430px; height:480px; margin: 0 auto; background:url(../images/dlck-bg.png); background-repeat: repeat-x; bgcolor:"#transparent" center bottom no-repeat #fdfdfd;  margin-top:100px; position:relative; top:90px;}
+.signin ul { position: relative; top:110px;}
+.signin img { margin-top: 22px; margin-left: -6px; }
+.signin ul.signinul { width: 430px; margin: 0 auto; line-height: 80px; }
+.signin ul.signinul span { width: 320px; margin: 0 auto; font-size: 24px; color: #fdfdfd; text-align: center; margin-left:90px; }
+.signin ul.signinul li { text-align: left; overflow: hidden; }
+.signin ul.signinul li span { float: left; width: 200px; font-size: 18px; font-family: "微软雅黑"; }
+.signin ul.signinul li input { width: 280px; margin:0 auto; padding-left:3px; height: 35px; line-height: 35px; background: #f8f8f8; border: 1px solid #e1e1e1; margin-top:30px; margin-left:72px;}
+.input_updown { float: left; line-height: normal; margin-top: 10px; margin-top: 0px\9; *margin-top:10px;
+}
+.login { display: inline-block; width: 99px; height: 36px; line-height: 36px;background: #f6f8f7; text-align: center; margin-right: 20px;  }
+.registerbtn { clear: both; text-align: center; position: relative; top:110px; }
+.registerbtn span { font-size: 14px; font-weight: bold; margin-top: 50px; }
+.register { display: inline-block; text-align: center; width: 108px; height: 38px; line-height: 38px; background: #38a0f0; border-radius: 4px; position: relative; z-index: 1; behavior: url(iecss3.htc); }
+.register:hover { background: #1077c6; }
+.register a { color: #fff; }
+.pwdok { font-size: 24px; color: #016ec5; text-align: center; font-family: "微软雅黑"; margin-top: 78px; margin-bottom: 50px; }
+.yl_sininleft { width: 372px; float: left; background: url(../yl_images/ylfg.png) right 114px no-repeat; min-height: 300px; }
+.yl_sininright { float: right; }
+.yl_sininright img:first-child { margin-right: -7px; *float:right;
+}
+.yl_sininleftmain { text-align: center; }
+.yl_sininleftmain p { font-family: "微软雅黑"; font-size: 12px; color: #838383; margin-top: 84px; margin-bottom: 10px; margin-left: -90px; }
+.yl_sininleftmain .btn { padding: 0 50px; height: 42px; line-height: 42px; background: #016ec5; display: inline-block; *display:inline;
+zoom: 1; border-radius: 2px; position: relative; z-index: 1; behavior: url(iecss3.htc); }
+.yl_sininleftmain .btn:hover { background: #0083ec; }
+.yl_sininleftmain .btn a { color: #fff; font-family: "微软雅黑"; font-size: 18px; }
+.content{ background:url(../images/bg.jpg) no-repeat center; background-size: cover; width:100%; height:800px;}
+.title .li{ color: #fff; font-family: "微软雅黑"; font-size: 18px; }

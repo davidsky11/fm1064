@@ -1,0 +1,6 @@
+[2016-04-11 10:12:11][debug] 统一下单......
+[2016-04-11 10:12:11][debug] 第[0]次 buyerName: 过去的人 --- buyerSex: 1 --- userSex: 0 --- songer: 薛之谦
+[2016-04-11 10:12:12][debug] 统一下单......
+[2016-04-11 10:12:12][debug] 第[1]次 buyerName: 过去的人 --- buyerSex: 1 --- userSex:  --- songer: 薛之谦
+[2016-04-11 10:12:12][debug] openId: ofjwTwehsZJw93Y1SK7r7lF184zM
+[2016-04-11 10:12:13][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"tf54sdwb18jd6rx1j1l9he4xjimnu9iy","package":"prepay_id=wx201604111012128c08be803c0181005170","signType":"MD5","timeStamp":"1460340733","paySign":"667E97E53D88A14E1D73C9F6F0398BE5"}

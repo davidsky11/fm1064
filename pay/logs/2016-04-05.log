@@ -1,0 +1,36 @@
+[2016-04-05 09:25:55][debug] 统一下单......
+[2016-04-05 09:25:55][debug] 第[0]次 buyerName: 黄韬 --- buyerSex: 0 --- userSex: 0 --- songer: v呵呵呵姐姐
+[2016-04-05 09:25:55][debug] 统一下单......
+[2016-04-05 09:25:55][debug] 第[1]次 buyerName: 黄韬 --- buyerSex:  --- userSex:  --- songer: v呵呵呵姐姐
+[2016-04-05 09:25:55][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-05 09:26:43][debug] 统一下单......
+[2016-04-05 09:26:43][debug] 第[2]次 buyerName: 刚刚好纠结 --- buyerSex: 0 --- userSex: 0 --- songer: 法国哈哈哈
+[2016-04-05 09:26:44][debug] 统一下单......
+[2016-04-05 09:26:44][debug] 第[3]次 buyerName: 刚刚好纠结 --- buyerSex:  --- userSex:  --- songer: 法国哈哈哈
+[2016-04-05 09:26:44][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-05 09:26:44][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"33leq24szhstoq037rx841liq67avdkz","package":"prepay_id=wx2016040509264424d6c33b3d0336382172","signType":"MD5","timeStamp":"1459819604","paySign":"6361F1B76189DF783FB2B6F2463425D9"}
+[2016-04-05 09:27:33][debug] begin notify
+[2016-04-05 09:27:33][debug] call back:{"appid":"wxc42acc5570910d1d","attach":"\u521a\u521a\u597d\u7ea0\u7ed3^^8556666^\u53d1\u5475\u5475\u5475^^5556366555^\u6cd5\u56fd\u54c8\u54c8\u54c8^\u5e72\u6d3b\u5408\u5408\u5206\u5206^2016-04-05^\u5403\u918bv\u54c8\u54c8\u54c8\u54c8^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"69hagqhuq8a8oqlluymv7lyoto04til7","openid":"ofjwTwVVAIuYV8Gjw80-eEKXIGhQ","out_trade_no":"132807770120160405092644","result_code":"SUCCESS","return_code":"SUCCESS","sign":"8310516A4CD578F22F39A1CE159D4D42","time_end":"20160405092732","total_fee":"1","trade_type":"JSAPI","transaction_id":"4005752001201604054558971282"}
+[2016-04-05 09:27:33][debug] query:{"appid":"wxc42acc5570910d1d","attach":"\u521a\u521a\u597d\u7ea0\u7ed3^^8556666^\u53d1\u5475\u5475\u5475^^5556366555^\u6cd5\u56fd\u54c8\u54c8\u54c8^\u5e72\u6d3b\u5408\u5408\u5206\u5206^2016-04-05^\u5403\u918bv\u54c8\u54c8\u54c8\u54c8^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"5wUDWk76qdVOKfsx","openid":"ofjwTwVVAIuYV8Gjw80-eEKXIGhQ","out_trade_no":"132807770120160405092644","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"52F04C9BB65DB05B5FBDF1B989A23254","time_end":"20160405092732","total_fee":"1","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4005752001201604054558971282"}
+[2016-04-05 09:27:33][debug] 连接数据库
+[2016-04-05 09:27:33][debug] 订单插入成功！
+[2016-04-05 10:18:19][debug] 统一下单......
+[2016-04-05 10:18:19][debug] 第[0]次 buyerName: 不不不 --- buyerSex: 0 --- userSex: 1 --- songer: 刚刚好回家
+[2016-04-05 10:18:20][debug] 统一下单......
+[2016-04-05 10:18:20][debug] 第[1]次 buyerName: 不不不 --- buyerSex:  --- userSex: 1 --- songer: 刚刚好回家
+[2016-04-05 10:18:20][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-05 10:18:20][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"5idk61bryallwj6s2c9pnmbxbofemgfe","package":"prepay_id=wx20160405101820c51eee62100984731862","signType":"MD5","timeStamp":"1459822700","paySign":"854E101D7550DF4500147AF27E88AD77"}
+[2016-04-05 16:25:25][debug] 统一下单......
+[2016-04-05 16:25:25][debug] 第[0]次 buyerName: 地方 --- buyerSex: 0 --- userSex: 0 --- songer: 唱歌呵呵
+[2016-04-05 16:25:26][debug] 统一下单......
+[2016-04-05 16:25:26][debug] 第[1]次 buyerName: 地方 --- buyerSex:  --- userSex:  --- songer: 唱歌呵呵
+[2016-04-05 16:25:26][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-05 16:25:26][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"9su4j5wzm6i9tx6zuq192obtszn0llus","package":"prepay_id=wx20160405162526e288e6a0460747996320","signType":"MD5","timeStamp":"1459844726","paySign":"CDE29690CE2D54D9C1BB7BBF8205E782"}
+[2016-04-05 16:25:38][debug] 统一下单......
+[2016-04-05 16:25:38][debug] 第[0]次 buyerName:  --- buyerSex:  --- userSex:  --- songer: 
+[2016-04-05 20:26:02][debug] 统一下单......
+[2016-04-05 20:26:02][debug] 第[0]次 buyerName: vv号 --- buyerSex: 0 --- userSex: 1 --- songer: v不会后悔
+[2016-04-05 20:26:03][debug] 统一下单......
+[2016-04-05 20:26:03][debug] 第[1]次 buyerName: vv号 --- buyerSex:  --- userSex: 1 --- songer: v不会后悔
+[2016-04-05 20:26:03][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-05 20:26:04][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"2y28qilx8hdsghpbtg3yt7dw7qxdisej","package":"prepay_id=wx20160405202604c2040f345d0645649689","signType":"MD5","timeStamp":"1459859164","paySign":"C9BBEAA07A1526B90490FF9FCB052791"}

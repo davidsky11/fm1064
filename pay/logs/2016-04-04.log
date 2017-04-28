@@ -1,0 +1,72 @@
+[2016-04-04 01:24:58][debug] 统一下单......
+[2016-04-04 01:24:58][debug] 第[33]次 buyerName: 代胜凯 --- buyerSex: 1 --- userSex: 1 --- songer: 拒绝
+[2016-04-04 01:24:59][debug] 统一下单......
+[2016-04-04 01:24:59][debug] 第[34]次 buyerName: 代胜凯 --- buyerSex: 1 --- userSex: 1 --- songer: 拒绝
+[2016-04-04 01:24:59][debug] openId: ofjwTwfzJRCJFljYUWE5aV6a4woQ
+[2016-04-04 01:25:00][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"177dz97swivxxu6nmcjt1r8gc9r6j5rq","package":"prepay_id=wx2016040401250025dc4730fa0428387316","signType":"MD5","timeStamp":"1459704300","paySign":"867FDC297E9A8643F2BD74BDD833AE42"}
+[2016-04-04 01:29:57][debug] 统一下单......
+[2016-04-04 01:29:57][debug] 第[35]次 buyerName: 脱 --- buyerSex: 1 --- userSex: 1 --- songer: 最重要
+[2016-04-04 01:29:57][debug] 统一下单......
+[2016-04-04 01:29:57][debug] 第[36]次 buyerName: 脱 --- buyerSex: 1 --- userSex: 1 --- songer: 最重要
+[2016-04-04 01:29:58][debug] openId: ofjwTwfzJRCJFljYUWE5aV6a4woQ
+[2016-04-04 01:29:58][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"phfpyqis27pi8wwe8wd3pzwgupbqbjol","package":"prepay_id=wx20160404012958bfffc2d1400175141471","signType":"MD5","timeStamp":"1459704598","paySign":"E0F65D7ECC682CB8E16D4EB29AD3FA07"}
+[2016-04-04 01:30:59][debug] 统一下单......
+[2016-04-04 01:30:59][debug] 第[37]次 buyerName: 代胜凯 --- buyerSex: 1 --- userSex: 1 --- songer: 也破也咨询我
+[2016-04-04 01:30:59][debug] 统一下单......
+[2016-04-04 01:30:59][debug] 第[38]次 buyerName: 代胜凯 --- buyerSex: 1 --- userSex: 1 --- songer: 也破也咨询我
+[2016-04-04 01:31:00][debug] openId: ofjwTwfzJRCJFljYUWE5aV6a4woQ
+[2016-04-04 01:31:00][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"0c2ikd6d0t85usyeuc3cso2ytl2h2srx","package":"prepay_id=wx2016040401310054a25a349c0809355005","signType":"MD5","timeStamp":"1459704660","paySign":"7B7859174E4932FEDE122C60A6ED1C0A"}
+[2016-04-04 01:31:00][debug] 统一下单......
+[2016-04-04 01:31:00][debug] 第[39]次 buyerName: 代胜凯 --- buyerSex: 1 --- userSex: 1 --- songer: 也破也咨询我
+[2016-04-04 01:31:00][debug] openId: ofjwTwfzJRCJFljYUWE5aV6a4woQ
+[2016-04-04 01:31:01][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"j9fx9t9jobqtalnctp5m4tu0229aygs1","package":"prepay_id=wx20160404013101ae46cb62e70254028418","signType":"MD5","timeStamp":"1459704661","paySign":"82459AEDF7300CE4F90CEC4D07B30510"}
+[2016-04-04 11:55:23][debug] 统一下单......
+[2016-04-04 11:55:23][debug] 第[0]次 buyerName: 徐文浩 --- buyerSex: 0 --- userSex: 1 --- songer: 刘德华
+[2016-04-04 11:55:23][debug] 统一下单......
+[2016-04-04 11:55:23][debug] 第[1]次 buyerName: 徐文浩 --- buyerSex:  --- userSex: 1 --- songer: 刘德华
+[2016-04-04 11:55:24][debug] openId: ofjwTwSg7q80X3iexlTyNra0F3Is
+[2016-04-04 11:55:24][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"0eg519cf1idbhjtrllqqvkl4movnkwpg","package":"prepay_id=wx201604041155241cdd6654d00742192159","signType":"MD5","timeStamp":"1459742124","paySign":"3D83785C1C77D6DED012A1D5513A2027"}
+[2016-04-04 11:55:45][debug] begin notify
+[2016-04-04 11:55:45][debug] call back:{"appid":"wxc42acc5570910d1d","attach":"\u5f90\u6587\u6d69^^15827115955^123^1^15827115955^\u5218\u5fb7\u534e^\u5fd8\u60c5\u6c34^2016-04-04^\u5929\u5929\u5f00\u5fc3^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1328077701","nonce_str":"m0oh1wm263vvxppuhao69aqya56zlw5e","openid":"ofjwTwSg7q80X3iexlTyNra0F3Is","out_trade_no":"132807770120160404115524","result_code":"SUCCESS","return_code":"SUCCESS","sign":"0704626CB774050CDCCA9AB250072D4A","time_end":"20160404115545","total_fee":"1","trade_type":"JSAPI","transaction_id":"4003952001201604044535610978"}
+[2016-04-04 11:55:46][debug] query:{"appid":"wxc42acc5570910d1d","attach":"\u5f90\u6587\u6d69^^15827115955^123^1^15827115955^\u5218\u5fb7\u534e^\u5fd8\u60c5\u6c34^2016-04-04^\u5929\u5929\u5f00\u5fc3^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1328077701","nonce_str":"p5Hm7mWZ3aaH1jns","openid":"ofjwTwSg7q80X3iexlTyNra0F3Is","out_trade_no":"132807770120160404115524","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"4EDFB77C6460A99E5185CF619EDA1930","time_end":"20160404115545","total_fee":"1","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4003952001201604044535610978"}
+[2016-04-04 11:55:46][debug] 连接数据库
+[2016-04-04 11:55:46][debug] 订单插入成功！
+[2016-04-04 13:06:32][debug] 统一下单......
+[2016-04-04 13:06:32][debug] 第[0]次 buyerName: 敏敏 --- buyerSex: 0 --- userSex: 0 --- songer: 太容易
+[2016-04-04 13:06:33][debug] 统一下单......
+[2016-04-04 13:06:33][debug] 第[1]次 buyerName: 敏敏 --- buyerSex:  --- userSex:  --- songer: 太容易
+[2016-04-04 13:06:33][debug] openId: ofjwTwfzJRCJFljYUWE5aV6a4woQ
+[2016-04-04 13:06:33][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"5rcydui44wycq4hci8fektykr46snki3","package":"prepay_id=wx201604041306338c17e95d710296439490","signType":"MD5","timeStamp":"1459746393","paySign":"B487AE14D9131F72DEDD2255008A13BE"}
+[2016-04-04 13:06:47][debug] begin notify
+[2016-04-04 13:06:47][debug] call back:{"appid":"wxc42acc5570910d1d","attach":"\u654f\u654f^^64649^\u4f60\u597d^^97994457^\u592a\u5bb9\u6613^\u540d\u6a21^2016-04-04^\u53ea\u6709\u4e00\u5f20^0.01","bank_type":"ABC_DEBIT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"1pkvqpgadyvnvx5xtwhj2hrsmf0nyu4g","openid":"ofjwTwfzJRCJFljYUWE5aV6a4woQ","out_trade_no":"132807770120160404130633","result_code":"SUCCESS","return_code":"SUCCESS","sign":"0A5D4BC09C805B9DCAED6AAF8AC96AB2","time_end":"20160404130646","total_fee":"1","trade_type":"JSAPI","transaction_id":"4007172001201604044538596685"}
+[2016-04-04 13:06:47][debug] query:{"appid":"wxc42acc5570910d1d","attach":"\u654f\u654f^^64649^\u4f60\u597d^^97994457^\u592a\u5bb9\u6613^\u540d\u6a21^2016-04-04^\u53ea\u6709\u4e00\u5f20^0.01","bank_type":"ABC_DEBIT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"kJMIFaMMgSaN6ufE","openid":"ofjwTwfzJRCJFljYUWE5aV6a4woQ","out_trade_no":"132807770120160404130633","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"BFE41B64549D194455C7E3D7299CC1C8","time_end":"20160404130646","total_fee":"1","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4007172001201604044538596685"}
+[2016-04-04 13:06:47][debug] 连接数据库
+[2016-04-04 13:06:48][debug] 订单插入成功！
+[2016-04-04 15:19:10][debug] 统一下单......
+[2016-04-04 15:19:10][debug] 第[0]次 buyerName: 呵呵呵 --- buyerSex: 0 --- userSex: 0 --- songer: 疯疯癫癫
+[2016-04-04 15:19:11][debug] 统一下单......
+[2016-04-04 15:19:11][debug] 第[1]次 buyerName: 呵呵呵 --- buyerSex:  --- userSex:  --- songer: 疯疯癫癫
+[2016-04-04 15:19:11][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-04 15:19:30][debug] 统一下单......
+[2016-04-04 15:19:30][debug] 第[2]次 buyerName: 呵呵呵 --- buyerSex: 0 --- userSex: 0 --- songer: 疯疯癫癫
+[2016-04-04 15:19:31][debug] 统一下单......
+[2016-04-04 15:19:31][debug] 第[3]次 buyerName: 呵呵呵 --- buyerSex: 0 --- userSex: 0 --- songer: 疯疯癫癫
+[2016-04-04 15:19:31][debug] 统一下单......
+[2016-04-04 15:19:31][debug] 第[4]次 buyerName: 呵呵呵 --- buyerSex:  --- userSex:  --- songer: 疯疯癫癫
+[2016-04-04 15:19:31][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-04 15:19:34][debug] 统一下单......
+[2016-04-04 15:19:34][debug] 第[5]次 buyerName: 呵呵呵 --- buyerSex: 0 --- userSex: 0 --- songer: 疯疯癫癫
+[2016-04-04 15:19:35][debug] 统一下单......
+[2016-04-04 15:19:35][debug] 第[6]次 buyerName: 呵呵呵 --- buyerSex:  --- userSex:  --- songer: 疯疯癫癫
+[2016-04-04 15:19:35][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-04 15:30:28][debug] 统一下单......
+[2016-04-04 15:30:28][debug] 第[7]次 buyerName: 猜对白大 --- buyerSex: 0 --- userSex: 0 --- songer: 宝宝
+[2016-04-04 15:30:29][debug] 统一下单......
+[2016-04-04 15:30:29][debug] 第[8]次 buyerName: 猜对白大 --- buyerSex:  --- userSex:  --- songer: 宝宝
+[2016-04-04 15:30:29][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-04 15:30:29][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"rrb5uvgrpfamzz8slvl0xdy5t2dryq38","package":"prepay_id=wx20160404153029f7c6061d570768381850","signType":"MD5","timeStamp":"1459755029","paySign":"C66E66C6EC8AAD8E6656BA7DBAD02E1D"}
+[2016-04-04 15:30:40][debug] begin notify
+[2016-04-04 15:30:40][debug] call back:{"appid":"wxc42acc5570910d1d","attach":"\u731c\u5bf9\u767d\u5927^^88887885^\u5b9d\u5b9d\u5927\u5b9d^^87445555^\u5b9d\u5b9d^\u5df4\u5df4\u7238\u7238\u5427^2016-04-04^vv\u5b9d\u8d1d\u4e0d\u4f1a\u53eb\u59d0\u59d0^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"22ho8y0wgiyrqmg9i53c5fzcyap6nahq","openid":"ofjwTwVVAIuYV8Gjw80-eEKXIGhQ","out_trade_no":"132807770120160404153029","result_code":"SUCCESS","return_code":"SUCCESS","sign":"5F0E2F843054D0455BABA1C813F51276","time_end":"20160404153039","total_fee":"1","trade_type":"JSAPI","transaction_id":"4005752001201604044542446458"}
+[2016-04-04 15:30:40][debug] query:{"appid":"wxc42acc5570910d1d","attach":"\u731c\u5bf9\u767d\u5927^^88887885^\u5b9d\u5b9d\u5927\u5b9d^^87445555^\u5b9d\u5b9d^\u5df4\u5df4\u7238\u7238\u5427^2016-04-04^vv\u5b9d\u8d1d\u4e0d\u4f1a\u53eb\u59d0\u59d0^0.01","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"Y","mch_id":"1328077701","nonce_str":"IA1FtAe0kMGqC6UN","openid":"ofjwTwVVAIuYV8Gjw80-eEKXIGhQ","out_trade_no":"132807770120160404153029","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0342E53FD627ADE2B577D12E51D70CB7","time_end":"20160404153039","total_fee":"1","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4005752001201604044542446458"}
+[2016-04-04 15:30:40][debug] 连接数据库
+[2016-04-04 15:30:40][debug] 订单插入成功！

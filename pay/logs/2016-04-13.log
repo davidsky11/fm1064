@@ -1,0 +1,6 @@
+[2016-04-13 20:45:45][debug] 统一下单......
+[2016-04-13 20:45:45][debug] 第[0]次 buyerName: 李强 --- buyerSex:  --- userSex:  --- songer: 
+[2016-04-13 20:45:46][debug] 统一下单......
+[2016-04-13 20:45:46][debug] 第[1]次 buyerName: 李强 --- buyerSex:  --- userSex:  --- songer: 
+[2016-04-13 20:45:46][debug] openId: ofjwTweEYbLiIhn5MubOuDmILwe8
+[2016-04-13 20:45:46][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"0zhxdzax6xylt7e05t4nh75qchsxt2hm","package":"prepay_id=wx20160413204546d590059c1d0958110217","signType":"MD5","timeStamp":"1460551546","paySign":"8F71F86126F7885ECA979F8C66E81B41"}

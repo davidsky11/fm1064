@@ -1,0 +1,16 @@
+[2016-04-27 11:51:42][debug] 统一下单......
+[2016-04-27 11:51:42][debug] 第[0]次 buyerName: 额 --- buyerSex: 0 --- userSex: 0 --- songer: 巛:::::
+[2016-04-27 11:51:43][debug] 统一下单......
+[2016-04-27 11:51:43][debug] 第[1]次 buyerName: 额 --- buyerSex:  --- userSex:  --- songer: 巛:::::
+[2016-04-27 11:51:43][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-27 11:51:43][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"kyawhpwlft7rg1vsd23rk3i4kcs4w4ae","package":"prepay_id=wx201604271151433a2b9754be0018258937","signType":"MD5","timeStamp":"1461729103","paySign":"ADC9B0EDC6279B33F6775D261DB1D367"}
+[2016-04-27 11:59:37][debug] 统一下单......
+[2016-04-27 11:59:37][debug] 第[2]次 buyerName: 化合价 --- buyerSex: 0 --- userSex: 0 --- songer: 白百合
+[2016-04-27 11:59:38][debug] 统一下单......
+[2016-04-27 11:59:38][debug] 第[3]次 buyerName: 化合价 --- buyerSex:  --- userSex:  --- songer: 白百合
+[2016-04-27 11:59:38][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-27 11:59:39][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"3dhbp8e5yu1ftdeqtnwy6qr1w57yluua","package":"prepay_id=wx2016042711593865398580f00647378977","signType":"MD5","timeStamp":"1461729579","paySign":"20F756B5FB116031AE3F1AA1A77A2B93"}
+[2016-04-27 11:59:39][debug] 统一下单......
+[2016-04-27 11:59:39][debug] 第[4]次 buyerName: 化合价 --- buyerSex:  --- userSex:  --- songer: 白百合
+[2016-04-27 11:59:39][debug] openId: ofjwTwVVAIuYV8Gjw80-eEKXIGhQ
+[2016-04-27 11:59:39][debug] jsApiParameters: {"appId":"wxc42acc5570910d1d","nonceStr":"cntquhgglggy9liya743ztxzkvbwex0m","package":"prepay_id=wx201604271159393b16d151170602068925","signType":"MD5","timeStamp":"1461729579","paySign":"B28ADCF1082F92F549FA5FEE60FD112F"}

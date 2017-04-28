@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'linecons';
+  src: url('../font/linecons.eot?24293614');
+  src: url('../font/linecons.eot?24293614#iefix') format('embedded-opentype'),
+       url('../font/linecons.woff?24293614') format('woff'),
+       url('../font/linecons.ttf?24293614') format('truetype'),
+       url('../font/linecons.svg?24293614#linecons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'linecons';
+    src: url('../font/linecons.svg?24293614#linecons') format('svg');
+  }
+}
+*/
+ 
+ [class^="linecons-"]:before, [class*=" linecons-"]:before {
+  font-family: "linecons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.linecons-music:before { content: '\e800'; } /* '©£' */
+.linecons-search:before { content: '\e801'; } /* '©ð' */
+.linecons-mail:before { content: '\e802'; } /* '©ñ' */
+.linecons-heart:before { content: '\e803'; } /* '©ò' */
+.linecons-star:before { content: '\e804'; } /* '©ó' */
+.linecons-user:before { content: '\e805'; } /* '©ô' */
+.linecons-videocam:before { content: '\e806'; } /* '©õ' */
+.linecons-camera:before { content: '\e807'; } /* '©ö' */
+.linecons-photo:before { content: '\e808'; } /* '©÷' */
+.linecons-attach:before { content: '\e809'; } /* '©ø' */
+.linecons-lock:before { content: '\e80a'; } /* '©ù' */
+.linecons-eye:before { content: '\e80b'; } /* '©ú' */
+.linecons-tag:before { content: '\e80c'; } /* '©û' */
+.linecons-thumbs-up:before { content: '\e80d'; } /* '©ü' */
+.linecons-pencil:before { content: '\e80e'; } /* '©ý' */
+.linecons-comment:before { content: '\e80f'; } /* '©þ' */
+.linecons-location:before { content: '\e810'; } /* '×ú' */
+.linecons-cup:before { content: '\e811'; } /* '×û' */
+.linecons-trash:before { content: '\e812'; } /* '×ü' */
+.linecons-doc:before { content: '\e813'; } /* '×ý' */
+.linecons-note:before { content: '\e814'; } /* '×þ' */
+.linecons-cog:before { content: '\e815'; } /* 'þP' */
+.linecons-params:before { content: '\e816'; } /* 'þQ' */
+.linecons-calendar:before { content: '\e817'; } /* 'þR' */
+.linecons-sound:before { content: '\e818'; } /* 'þS' */
+.linecons-clock:before { content: '\e819'; } /* 'þT' */
+.linecons-lightbulb:before { content: '\e81a'; } /* 'þU' */
+.linecons-tv:before { content: '\e81b'; } /* 'þV' */
+.linecons-desktop:before { content: '\e81c'; } /* 'þW' */
+.linecons-mobile:before { content: '\e81d'; } /* 'þX' */
+.linecons-cd:before { content: '\e81e'; } /* 'þY' */
+.linecons-inbox:before { content: '\e81f'; } /* 'þZ' */
+.linecons-globe:before { content: '\e820'; } /* 'þ[' */
+.linecons-cloud:before { content: '\e821'; } /* 'þ\' */
+.linecons-paper-plane:before { content: '\e822'; } /* 'þ]' */
+.linecons-fire:before { content: '\e823'; } /* 'þ^' */
+.linecons-graduation-cap:before { content: '\e824'; } /* 'þ_' */
+.linecons-megaphone:before { content: '\e825'; } /* 'þ`' */
+.linecons-database:before { content: '\e826'; } /* 'þa' */
+.linecons-key:before { content: '\e827'; } /* 'þb' */
+.linecons-beaker:before { content: '\e828'; } /* 'þc' */
+.linecons-truck:before { content: '\e829'; } /* 'þd' */
+.linecons-money:before { content: '\e82a'; } /* 'þe' */
+.linecons-food:before { content: '\e82b'; } /* 'þf' */
+.linecons-shop:before { content: '\e82c'; } /* 'þg' */
+.linecons-diamond:before { content: '\e82d'; } /* 'þh' */
+.linecons-t-shirt:before { content: '\e82e'; } /* 'þi' */
+.linecons-wallet:before { content: '\e82f'; } /* 'þj' */

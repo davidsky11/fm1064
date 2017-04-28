@@ -1,0 +1,168 @@
+*{
+	
+	padding:0;
+	margin:0;
+	/*background-image: url(../img/hehe.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-color:red;*/
+	
+}
+body{
+	background-image: url(../img/hehe.jpg);
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	
+}
+.top_1{
+	margin-top:10px;
+	width:40%;
+	height:50px;
+	background-color:red;
+	float:right;
+	background-color: #13DB89;
+}
+.top_1:after{
+	display: block;
+	content: '.';
+	clear:both;
+	height: 0;
+	visibility: hidden;
+	
+	
+}
+.top_2{
+	width:80%;
+	height:50px;
+	background-color:white;
+	margin:0 auto;
+	/*border:1px solid white;*/
+}
+.top_3{
+	width:100%;
+	height:50px;
+}
+.top_4{
+	width:20%;
+	height:50px;
+	/*background-color:red;*/
+	float: left;
+	margin-left: 30px;
+}
+ 
+.top_4 img{
+	margin-top:11.5px;
+	margin-left:27%;
+}
+.top_5{
+	float: left;
+}
+.top_5 input{
+	margin-top:10px;
+	height: 30px;
+	/*color: #C4C4C4;*/
+	background:;
+	border:0;
+	
+}
+.top_6{
+	width:35%;
+	height:50px;
+	float:left;
+	background-color: #13DB89;
+}
+.top_6 img{
+	margin-top:11.5px ;
+	margin-left:27%;
+}
+.top_7{
+	width:65%;
+	height:50px;
+	line-height:50px;
+	float: left;
+	color: white;
+	background-color: #13DB89;
+}
+.top_8{
+	width:80%;
+	height:30px;
+	/*background-color:green;*/
+	margin:0 auto;
+	line-height: 28px;
+}
+.top_9{
+	width:30%;
+	height:30px;
+	/*background-color:red;*/
+	margin:0 auto;
+	float: left;
+	padding-left:10%;
+	padding-right:-20%;
+	/*line-height: 27px;*/
+	
+		
+}
+/*.top_9 input{
+	background-image: url(../img/aj.png);
+	background-repeat: no-repeat;
+	border: 0;
+
+}*/
+.top_11{
+	width:80%;
+	height:40px;
+	/*background-color:green;*/
+	margin:0 auto;
+	/*text-indent:1em;*/
+	line-height:60px ;
+}
+.top_12{
+	width:80%;
+	
+	height:120px;
+	background-color:white;
+	margin:0 auto;
+	/*border:1px solid white;*/
+}
+.top_12 textarea{
+	background: ;
+	border:0;
+	font-size:12px;
+	  resize : none;
+}
+.top_13{
+	height:10px;
+
+}
+.top_14{
+	width:47%;
+	height:50px;
+	background-color:#13DB89 ;
+	line-height: 50px;
+	text-align: center;
+	color:white;
+	float: left;
+
+}
+.top_15{
+	width:47%;
+	height:50px;
+	background-color:#13DB89 ;
+	line-height: 50px;
+	text-align: center;
+	color:white;
+	margin-left: 26%;
+}
+.top_16{
+	width:80%;
+	height:50px;
+	/*background-color:green;*/
+	margin:0 auto;
+}
+.top_15 input{
+	border:none;
+	background:0;
+	color:white;
+	font-size:16px;
+}
+.jw{
+width:41px;}

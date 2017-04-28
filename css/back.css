@@ -1,0 +1,233 @@
+.red,.color-red {
+    color:red;
+}
+.btn.btn-secondary {
+    background-color:#5bb75b;
+  }
+.btn.btn-blue {
+    background-color: #17b4eb;
+}
+.radius-5{
+    border-radius: 5px;
+}
+.padding-no {
+    padding:0 !important;
+}
+.margin-top-10 {
+    margin-top: 10px;
+}
+.margin-left-5 {
+    margin-left: 5px;
+}
+.margin-left-10 {
+     margin-left: 5px;
+ }
+.padding-l-50 {
+    padding-left: 50px !important;
+}
+.padding-r-50 {
+    padding-right: 50px !important;
+}
+.margin-r-10 {
+    margin-right: 10px !important;
+}
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+.padding-top-10 {
+    padding-top: 10px;
+}
+.padding-top-40 {
+    padding-top: 40px !important;
+}
+.sidebar-menu .logo-env {
+    padding-bottom: 10px;
+}
+.sidebar-menu .logo-env .settings-icon {
+    top:38px;
+    font-size: 15px;
+    color:#979898;
+}
+@media screen and (min-width: 768px){
+    .sidebar-menu.collapsed .main-menu > li > a > span {
+         display: block;
+    }
+}
+.panel .panel-body.panel-border {
+    padding-top: 10px;
+}
+.panel .panel-heading > .panel-title {
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: solid 2px #72c02c;
+    padding-bottom: 4px;
+}
+.panel-heading {
+    border:none;
+}
+.panel .panel-body.panel-border {
+    /*border-top: 0;*/
+    /*margin-top:-6px;*/
+}
+.input-group-sm > .form-control.form-search {
+    /*width:79%;*/
+    /*float: left;*/
+}
+.f-search {
+    width:200px;
+}
+/*表格内图标*/
+.table-lo > tbody > tr > td{
+    line-height: 30px;
+}
+.btn-lo{
+    padding: 4px 18px;
+}
+
+/*标签页样式*/
+.nav.nav-tabs {
+    border-bottom: 1px solid #dddddd;
+}
+.nav.nav-tabs > li {
+    margin-bottom: -1px;
+}
+.nav.nav-tabs > li > a,
+.nav.nav-tabs > li > a:hover,
+.nav.nav-tabs > li > a:focus{
+    border-bottom: 1px solid #dddddd;
+}
+.nav.nav-tabs > li.active > a {
+    border:solid 1px #dddddd;
+    border-bottom: solid 1px #fff;
+}
+.f-class > .nav.nav-tabs {
+    border:none;
+}
+.f-class > .nav.nav-tabs > li {
+    border-bottom: solid 10px #fafafa;
+    width: 32%;
+    text-align: center;
+}
+.f-class > .nav.nav-tabs > li > a {
+    margin-right: 0;
+    background: #fcfcfc;
+    font-size: 15px;
+    font-weight: bold;
+    border:none;
+}
+.f-class > .nav.nav-tabs > li.active {
+    border-bottom: solid 10px #5bb75b;
+}
+.f-class > .nav.nav-tabs > li.active a {
+    background: #fafafa;
+}
+.f-class > .nav-tabs > li.active > a:focus {
+    border: none;
+}
+.panel .panel-body.panel-border {
+    /*padding: 40px 0 0;*/
+    /*width: 70%;*/
+    /*color:#000000;*/
+}
+.nav.nav-tabs + .tab-content.tab-nopadding,.tab-content.tab-nopadding{
+    /*margin-left: -30px;*/
+    padding-left: 0;
+    padding-right: 0;
+}
+.panel-b {
+    border: 1px solid #dddddd;
+    background: #f7f7f7;
+    margin-bottom: 0;
+}
+.panel-form {
+    width: 80%;
+    margin: 0 auto;
+}
+.panel-form label.control-label{
+    font-size: 15px;
+    color: #000;
+}
+.panel-form .table > tbody > tr > td {
+    border:solid 1px #ffffff;
+}
+.lable-r {
+    padding-top: 7px;
+}
+select.form-control {
+    width:32%;
+    display: inline;
+}
+.tab-3 {
+    margin-top:-30px;
+}
+.tab-3 h3 {
+    margin-top: 10px;
+}
+.tab-3 .glyphicon {
+    font-size: 24px;
+}
+.tab-3 .file {
+    margin-bottom: 30px;
+}
+.tab-3 .file span {
+    margin-right: 25px;
+    line-height: 30px;
+    width: 40%;
+    height: 30px;
+    display: inline-block;
+    text-align: right;
+    /*margin-top: -5px;*/
+}
+.nav.nav-tabs + .tab-content {
+    padding-top:50px;
+}
+.btn-green{
+    color: #ffffff;
+    background: #5bb75b;
+    padding: 15px 100px;
+}
+
+.form-control-a {
+    width: 85%;
+    display: inline-block;;
+}
+.form-horizontal .control-label.text-left{
+    text-align: left;
+}
+.ico-ok,.ico-error {
+    width:30px !important;
+    height: 24px !important;
+    display: inline-block;
+    line-height: 0;
+    /*margin-top: 5px;*/
+}
+.ico-ok {
+    background: url("../img/back/type.png") 0px 0px no-repeat;
+}
+.ico-error {
+    background: url("../img/back/type.png") 0px -24px no-repeat;
+}
+
+.dropdown-menu {
+	z-index:9999;
+}
+
+.sfz {
+	max-height:300px;
+	max-width:300px;
+	margin:4px 0;
+
+}
+
+.sfz-float{
+	position:relative;
+	top:124px;
+	width:1px;
+	height:1px;
+}
+
+.sfz-lg {
+	max-height:auto;
+	max-width:100%;
+	margin:4px 0;
+}
